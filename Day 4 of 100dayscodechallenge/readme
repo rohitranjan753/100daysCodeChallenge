@@ -1,4 +1,4 @@
-First I have initialised two counter.
-Everytime outer loop runs we are storing the number.
-Then we are again using another loop and in that loop we are comparing the element with rest element for the duplication.
-If no duplicate element is found we are returning the value.
+1. First I have initialised two counter.
+2. Everytime outer loop runs we are storing the number.
+3. Then we are again using another loop and in that loop we are comparing the element with rest element for the duplication.
+4. If no duplicate element is found we are returning the value.
