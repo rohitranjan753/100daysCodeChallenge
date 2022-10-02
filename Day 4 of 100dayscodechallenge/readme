@@ -1,1 +1,4 @@
-hgjgjhg
+First I have initialised two counter.
+Everytime outer loop runs we are storing the number.
+Then we are again using another loop and in that loop we are comparing the element with rest element for the duplication.
+If no duplicate element is found we are returning the value.
