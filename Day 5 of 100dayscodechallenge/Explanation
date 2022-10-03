@@ -1,0 +1,6 @@
+1. Here logic is same as Fibonacci Series except
+2. When index value is even, we are storing firstnum and secondnum value in nextnum.
+3. Then we are substituting firstnum value into another value.
+4. we are substituting secondNum value in Origianl firstNum.
+5. And in secondNum we are substituting nextNum value in secondNum.
+6. For difference term we are subtracting fst and secondNum and storing it to diffTerm.
