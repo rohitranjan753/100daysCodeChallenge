@@ -1,3 +1,9 @@
+Problem Statemet:
+Fibonacci Special Series where every alternate digit will be result of subtraction of its previous and next value.
+
+Sample Input: 10
+Sample Output: 0,-1,1,-2,3,-5,8,-13,21,-34
+
 1. Here logic is same as Fibonacci Series except
 2. When index value is even, we are storing firstnum and secondnum value in nextnum.
 3. Then we are substituting firstnum value into another value.
