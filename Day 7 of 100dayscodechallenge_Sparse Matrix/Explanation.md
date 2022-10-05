@@ -3,6 +3,12 @@
 ### Problem statement: <br>
 Implement sparse matrix using array with insert operation, delete operation, search operation and display operation.
 
+Test case:
+1. After matrix input we will check for sparse matrix, wether the given input by user is valid or not.
+2. If user try to delete the element which is already 0.
+3. If user enter wrong index value for delete which is not present in matrix, the program wont allow user to enter.
+4. If user enter wrong index value for search which is not present in matrix, the program wont allow user to enter.
+
 Sample Input:<br>
 A matrix
 
