@@ -18,4 +18,4 @@
         - [Day 8 of 100dayscodechallenge | Dart Fundamentals 1 | 06/10/2022](https://github.com/rohit-753/100daysCodeChallenge/tree/main/Day%208%20of%20100dayscodechallenge_Dart%20Tuitorial%201)
         - [Day 9 of 100dayscodechallenge | Dart Fundamentals 2 | 07/10/2022](https://github.com/rohit-753/100daysCodeChallenge/tree/main/Day%209%20of%20100dayscodechallenge_Dart%20Tuitorial%202)
         - [Day 10 of 100dayscodechallenge | Dart Fundamentals 3 | 08/10/2022](https://github.com/rohit-753/100daysCodeChallenge/tree/main/Day%2010%20of%20100dayscodechallenge_Dart%20Tuitorial%203)
-      
+        - [Day 11 of 100dayscodechallenge | Dart Fundamentals 4 | 09/10/2022](https://github.com/rohit-753/100daysCodeChallenge/tree/main/Day%2011%20of%20100dayscodechallenge_Dart%20Tuitorial%204_Exception%20Handling)
