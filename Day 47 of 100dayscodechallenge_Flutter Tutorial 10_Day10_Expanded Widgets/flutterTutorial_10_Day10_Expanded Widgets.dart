@@ -1,6 +1,6 @@
 //Date 14/11/2022 07:20 PM
 
-//Flutter Learning Day 10.
+//Flutter Learning Day 10
 //Topics covered is Expanded Widgets.
 
 import 'package:flutter/cupertino.dart';
